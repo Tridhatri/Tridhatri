@@ -48,6 +48,12 @@
 
 ---
 
+## ✍️ Blogs
+
+- 📝 [Vim and Life — Part 1](https://open.substack.com/pub/tridhatri/p/vim-and-life-part-1?utm_campaign=post&utm_medium=web) — Checkout my first blog!
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
