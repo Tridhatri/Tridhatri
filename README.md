@@ -12,13 +12,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔧 I love working **close to the metal** — from writing bootloaders in Assembly to managing memory in C
-- 🌱 Currently exploring **low-level OS internals**, **networking**, and **computer vision**
-- 🏀 Built a computer-vision system to automate basketball referee calls
-- 🐧 Nix/Linux power user — check out my [dotfiles](https://github.com/Tridhatri/dotfiles)
-- ⚡ Fun fact: I wrote a bootable kernel in under 1000 lines of C & Assembly
+- I love working **close to the metal** — from writing bootloaders in Assembly to managing memory in C
+- Currently exploring **low-level OS internals**, **networking**, and **computer vision**
+- Built a computer-vision system to automate basketball referee calls
+- Nix/Linux power user — check out my [dotfiles](https://github.com/Tridhatri/dotfiles)
+
 
 ---
 
