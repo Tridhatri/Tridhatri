@@ -1,6 +1,10 @@
 <h1 align="center">Hey there, I'm Tridhatri 👋</h1>
 
 <p align="center">
+  <a href="https://tridhatri.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>🌐 Personal Website</strong></a>
+</p>
+
+<p align="center">
   <em>Systems programmer · OS enthusiast · Computer Vision tinkerer</em>
 </p>
 
@@ -18,7 +22,6 @@
 - Currently exploring **low-level OS internals**, **networking**, and **computer vision**
 - Built a computer-vision system to automate basketball referee calls
 - Nix/Linux power user — check out my [dotfiles](https://github.com/Tridhatri/dotfiles)
-
 
 ---
 
