@@ -1,17 +1,7 @@
-<h1 align="center">Hey there, I'm Tridhatri 👋</h1>
-
-<p align="center">
-  <a href="https://tridhatri.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>🌐 Personal Website</strong></a>
-</p>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
   <em>Systems programmer · OS enthusiast · Computer Vision tinkerer</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tridhatri">
-    <img src="https://komarev.com/ghpvc/?username=Tridhatri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
 </p>
 
 ---
@@ -48,25 +38,6 @@
 | [🌐 TCP Student Database](https://github.com/Tridhatri/TCP-Student-Database-in-C) | Concurrent TCP server for multi-client student database management using sockets | C |
 | [🏀 Automating Basketball Referee](https://github.com/Tridhatri/Automating-Basketball-Referee) | Computer-vision system to detect travel & double-dribble fouls in real time | Python |
 | [⚙️ Dotfiles](https://github.com/Tridhatri/dotfiles) | My personal Neovim, shell, and workflow config files | Lua |
-
----
-
-## ✍️ Blogs
-
-- 📝 [Vim and Life — Part 1](https://open.substack.com/pub/tridhatri/p/vim-and-life-part-1?utm_campaign=post&utm_medium=web) — Checkout my first blog!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tridhatri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tridhatri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tridhatri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
