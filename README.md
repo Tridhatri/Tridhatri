@@ -36,7 +36,7 @@
 |---------|-------------|----------|
 | [🔩 Kernel Project](https://github.com/Tridhatri/Kernel_Project) | Bootable kernel with memory management, process scheduling & system calls in <1000 lines | C & Assembly |
 | [🌐 TCP Student Database](https://github.com/Tridhatri/TCP-Student-Database-in-C) | Concurrent TCP server for multi-client student database management using sockets | C |
-| [🏀 Automating Basketball Referee](https://github.com/Tridhatri/Automating-Basketball-Referee) | Computer-vision system to detect travel & double-dribble fouls in real time | Python |
+| [🤖 Minimal-RAG](https://github.com/3e8labs/Minimal-RAG) | Lightweight RAG implementation for building retrieval-augmented generation systems | Python |
 | [⚙️ Dotfiles](https://github.com/Tridhatri/dotfiles) | My personal Neovim, shell, and workflow config files | Lua |
 
 ---
